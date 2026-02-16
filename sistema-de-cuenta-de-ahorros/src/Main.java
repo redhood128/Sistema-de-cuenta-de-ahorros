@@ -4,7 +4,7 @@ import java.util.InputMismatchException;
 /**
  * Main application class for Savings Account System
  * Provides a console-based user interface 
- * Integrantes: Juan Andres Toro, Daniel Cubillan y Daniel Cano
+ * Integrantes: Juan Andres Toro, Daniel Cubillan, Pablo Arredondo y Daniel Cano
  * @author TechSoft S.A.
  * @version 1.0
  */
